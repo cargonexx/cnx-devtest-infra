@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/cargonexx/cnx-devtest-infra#readme",
   "dependencies": {
+    "aws-serverless-express": "^3.3.8",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "claudia": "^5.12.0"
   }
 }
